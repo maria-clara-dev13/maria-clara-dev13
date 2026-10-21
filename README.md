@@ -54,8 +54,8 @@ Os projetos serão adicionados conforme forem desenvolvidos. Não deixe exemplos
 ## 📫 Contato
 
 - GitHub: [@maria-clara-dev13](https://github.com/maria-clara-dev13)
-- LinkedIn: [@maria-clara-dev13](https://www.linkedin.com/in/maria-clara-miranda)
-- E-mail profissional: [@maria-clara-dev13](mirandaclara03@gmail.com)
+- LinkedIn: [@maria-clara-miranda](https://www.linkedin.com/in/maria-clara-miranda)
+- E-mail profissional: [mirandaclara03@gmail.com](mirandaclara03@gmail.com)
 
 ---
 
