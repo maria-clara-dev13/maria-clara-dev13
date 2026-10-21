@@ -6,7 +6,7 @@
 
 Construindo projetos, aprendendo na prática e evoluindo um commit de cada vez.
 
-[![GitHub](https://img.shields.io/badge/GitHub-maria--clara--miranda-111827?style=for-the-badge&logo=github)](https://github.com/maria-clara-dev13)
+[![GitHub](https://img.shields.io/badge/GitHub-maria--clara--dev13-111827?style=for-the-badge&logo=github)](https://github.com/maria-clara-dev13)
 
 </div>
 
