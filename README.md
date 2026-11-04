@@ -40,8 +40,8 @@ Os projetos serão adicionados conforme forem desenvolvidos. Não deixe exemplos
 
 | Projeto | Descrição | Status |
 |---|---|---|
-| [Quebra Cabeça de 8 pastilhas](https://github.com/maria-clara-dev13/quebra-cabeca-8-pastilhas) | Ferramenta educativa que verifica critérios básicos de uma senha localmente. | Planejado |
-| [Jogo Sudoku](https://github.com/maria-clara-dev13/sudoku_c) | Aplicação simples para organizar tarefas e acompanhar estudos. | Planejado |
+| [Quebra Cabeça de 8 pastilhas](https://github.com/maria-clara-dev13/quebra-cabeca-8-pastilhas) | Organizar os números em ordem crescente. | Finalizado |
+| [Jogo Sudoku](https://github.com/maria-clara-dev13/sudoku_c) | Matriz de números. | Finalizado |
 
 ## 📚 Como gosto de aprender
 
