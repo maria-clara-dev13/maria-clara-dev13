@@ -42,6 +42,7 @@ Os projetos serão adicionados conforme forem desenvolvidos. Não deixe exemplos
 |---|---|---|
 | [Quebra Cabeça de 8 pastilhas](https://github.com/maria-clara-dev13/quebra-cabeca-8-pastilhas) | Organizar os números em ordem crescente. | Finalizado |
 | [Jogo Sudoku](https://github.com/maria-clara-dev13/sudoku_c) | Matriz de números. | Finalizado |
+| [Religare](https://github.com/maria-clara-dev13/Religare) | Plataforma web com foco em conexão, interação e experiência do usuário. | Finalizado |
 
 ## 📚 Como gosto de aprender
 
